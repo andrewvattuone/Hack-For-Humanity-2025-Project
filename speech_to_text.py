@@ -7,7 +7,7 @@ from datetime import datetime
 from deepgram import Deepgram
 import os
 
-DEEPGRAM_API_KEY = "80ea48c56bc02117c892a0a30d2e7f7fcfaa6ff1"
+DEEPGRAM_API_KEY = "1"
 
 SAMPLE_RATE = 16000
 CHANNELS = 1
